@@ -86,5 +86,7 @@ public class Main {
         totalEmployees = totalEmployees + 94;
         commonHours = totalEmployees * 8;
         System.out.println("Если в компании работает " + totalEmployees + " человек, то всего " + commonHours + " часа работы может быть поделено между сотрудниками");
+
+        //Домашка выполнена
     }
 }
